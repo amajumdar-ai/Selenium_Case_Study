@@ -6,7 +6,7 @@
         <parameter name="invalidUsername" value="standard_Invaliduser"/>
         <parameter name="invalidPassword" value="secret_Invalidpwd"/>
         <classes>
-            <class name="testcases.LoginTest"/>
+            <class name="com.selenium.testcases.LoginTest"/>
         </classes>
     </test>
 </suite>

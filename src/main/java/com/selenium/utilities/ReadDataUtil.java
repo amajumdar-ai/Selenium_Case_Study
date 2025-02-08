@@ -1,4 +1,4 @@
-package utilities;
+package com.selenium.utilities;
 
 import java.io.FileInputStream;
 import org.apache.poi.ss.usermodel.*;

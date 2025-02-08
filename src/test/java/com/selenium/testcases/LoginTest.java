@@ -1,4 +1,4 @@
-package testcases;
+package com.selenium.testcases;
 
 import org.testng.annotations.Test;
 import org.openqa.selenium.By;
@@ -9,8 +9,8 @@ import java.time.Duration;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.AfterMethod;
-import utilities.BaseTest;
-import utilities.ScreenshotUtil;
+import com.selenium.utilities.BaseTest;
+import com.selenium.utilities.ScreenshotUtil;
 import org.testng.annotations.Parameters;
 
 public class LoginTest extends BaseTest { // ✅ Extends BaseTest
